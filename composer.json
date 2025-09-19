@@ -95,7 +95,7 @@
             "pantheon-systems/upstream-management": true
         },
         "platform": {
-            "php": "8.1.31"
+            "php": "8.3.14"
         }
     },
     "minimum-stability": "stable",
