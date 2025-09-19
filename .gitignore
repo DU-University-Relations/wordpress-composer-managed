@@ -157,3 +157,8 @@ Thumbs.db
 # SASS #
 ##########
 .sass-cache
+
+# DDEV generated files #
+######################
+.ddev/*
+docroot/sites/default/settings.ddev.php
